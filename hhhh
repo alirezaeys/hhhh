@@ -1,0 +1,26 @@
+─◈────────────◈─
+           ⎙  𝐃𝐞𝐜𝐫𝐲𝐩𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬!  ⎙
+─◈────────────◈─
+🇦 🇷 🇾 🇦 🇳  𝗗𝗘𝗖𝗥𝗬𝗣𝗧𝗢𝗥
+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
+https://t.me/ConfigDecryptor1
+─◈────────────◈─
+[</>] [BlockRoot] => true
+[</>] [ExtraSniffer] => false
+[</>] [ExpireTime] => 2023-03-21 10:08
+[</>] [ProviderLock] => false
+[</>] [OpenVPN-Cerf] => *
+[</>] [OpenVPN-User:Pass] => *
+[</>] [PortUDPGW] => *
+[</>] [LockHWID] => false
+[</>] [ValueHWID] => *
+[</>] [NickPowerd] => *
+[</>] [BypassPassword] => false
+[</>] [PsihonMode] => false
+[</>] [V2RayMode] => true
+[</>] [V2Ray] => {"inbounds": [],"outbounds": [{"mux": {"enabled": false},"protocol": "trojan","settings": {"servers": [{"address": "sgt3.sshocean.net","level": 8,"password": "09a1b73d-635c-4585-838a-264824c50c8e","port": 443}]},"streamSettings": {"network": "ws","security": "tls","tlsSettings": {"allowInsecure": true,"serverName": "www.bioscopelive.com"},"wsSettings": {"headers": {"Host": "sgt3.sshocean.net"},"path": "/websocket"}},"tag": "TROJAN"}],"policy": {"levels": {"8": {"connIdle": 300,"downlinkOnly": 1,"handshake": 4,"uplinkOnly": 1}}}}
+[</>] [VersiApp] => 489
+[</>] [SlowDNSMode] => false
+─◈────────────◈─
+𝗗𝗲𝗰𝗿𝘆𝗽𝘁𝗲𝗱𝗕𝘆: @ConfigDecryptor1
+─◈────────────◈─
